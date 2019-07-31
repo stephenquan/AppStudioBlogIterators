@@ -1,0 +1,9 @@
+In Unix, the data flows in Unix pipes in one direction.
+
+With Javascript generators, the data flow can be bidirectional.
+
+We can take a value from the Javascript generator modify and send the result back to the Javascript generator.
+
+The following shows the generator yielding 1, 2 and 3 respectively.
+
+For each value, we square the result and send the square back to the generator.

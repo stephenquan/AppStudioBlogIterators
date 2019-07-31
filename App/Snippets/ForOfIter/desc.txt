@@ -1,0 +1,5 @@
+In the above example, we declare a Javascript generator which produces cities with their name and their distance from ESRI.
+
+We turn that Javascript generator into a Javascript iterator when we "call" it, i.e. cities().
+
+As a Javascript iterator, we use a "for of" loop to process the results.
