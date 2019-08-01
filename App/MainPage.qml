@@ -65,6 +65,7 @@ Page {
                     "ForOfIter",
                     "WhileIter",
                     "HeadAndTails",
+                    "InfiniteHello",
                     "Bidirectional",
                     "PromiseBabel",
                     "ArcGISOnlineSearch",
