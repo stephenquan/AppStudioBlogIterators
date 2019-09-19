@@ -1,0 +1,3 @@
+This QML application generates the animation for the 10 PRINT "HELLO" BASIC program.
+
+This program uses Promises and Javascript generators in the main body to coordinate the animation.

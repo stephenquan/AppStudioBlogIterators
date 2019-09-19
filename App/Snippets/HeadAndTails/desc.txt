@@ -1,3 +1,0 @@
-Smilar to the Unix head, tail, cat commands, the above head, tail, cat Javascript generator functions start executing concurrently.
-
-The data pipeline occurs when callers consume data and the Javascript generator functions yield data.

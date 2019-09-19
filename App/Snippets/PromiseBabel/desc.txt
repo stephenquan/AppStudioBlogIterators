@@ -1,5 +1,0 @@
-In a previous blog on Promises, I talked about async / await missing in AppStudio 3.3 and Qt 5.12.1 and that you can vote to have it included it https://bugreports.qt.io/browse/QTBUG-58620.
-
-I've read in other blogs that async / await is considered by some as syntactic sugar on Javascript generators yielding Promises.
-
-This example demonstrates how to use Promises with Javascript generators.

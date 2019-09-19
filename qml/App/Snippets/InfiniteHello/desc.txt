@@ -1,0 +1,5 @@
+Apparent infinite loops are no longer taboo.
+
+The following demonstrates the Javascript generator working with a Timer object.
+
+The program is not CPU intensive and not quite an infinite loop in that one can stop the invoking the Javascript generator by stopping the Timer.

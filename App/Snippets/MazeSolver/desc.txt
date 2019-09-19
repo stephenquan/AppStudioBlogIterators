@@ -1,5 +1,0 @@
-Problem solving applications, including maze solving, typically require recursion.
-
-This particular algorithm uses depth first recursion.
-
-Because we make use of Promises and JavaScript generators and JavaScript iterators the recursion plays nice with the UI. We can even add delays to reduce the CPU intensiveness of the algorithm and make the animation more pleasant for the user.

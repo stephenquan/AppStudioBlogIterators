@@ -1,0 +1,7 @@
+The first impression is this "while" version looks a bit hard to swallow.
+
+The "for of" shorten version looks cleaner.
+
+When you think about it, this version actually gives you more insight into the "yield" keyword.
+
+When "yield" is used, a value is returned from the Javascript generator, and the Javascript generator pauses execution until the next time we call "iter.next()".

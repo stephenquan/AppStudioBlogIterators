@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/sample.html</file>
+        <file>data/sample.txt</file>
+        <file>data/keywords.txt</file>
+        <file>fonts/cour.ttf</file>
+        <file>main.qml</file>
+        <file>qml/App/CodePage.qml</file>
+        <file>qml/App/CodeSyntaxHighlighter.qml</file>
+        <file>qml/App/NumberedTextEdit.qml</file>
+        <file>qml/App/images/AppStudio.png</file>
+        <file>qml/App/images/back-200px.png</file>
+        <file>qml/App/MainPage.qml</file>
+        <file>qml/App/Snippets/ArcGISOnlineSearch/ArcGISOnlineSearch.qml.txt</file>
+        <file>qml/App/Snippets/ArcGISOnlineSearch/desc.txt</file>
+        <file>qml/App/Snippets/ArcGISOnlineSearch/snippet.txt</file>
+        <file>qml/App/Snippets/Bidirectional/Bidirectional.qml.txt</file>
+        <file>qml/App/Snippets/Bidirectional/desc.txt</file>
+        <file>qml/App/Snippets/Bidirectional/snippet.txt</file>
+        <file>qml/App/Snippets/ForOfIter/desc.txt</file>
+        <file>qml/App/Snippets/ForOfIter/ForOfIter.qml.txt</file>
+        <file>qml/App/Snippets/ForOfIter/snippet.txt</file>
+        <file>qml/App/Snippets/HeadAndTails/desc.txt</file>
+        <file>qml/App/Snippets/HeadAndTails/HeadAndTails.qml.txt</file>
+        <file>qml/App/Snippets/HeadAndTails/snippet.txt</file>
+        <file>qml/App/Snippets/InfiniteHello/desc.txt</file>
+        <file>qml/App/Snippets/InfiniteHello/InfiniteHello.qml.txt</file>
+        <file>qml/App/Snippets/InfiniteHello/snippet.txt</file>
+        <file>qml/App/Snippets/MazeSolver/desc.txt</file>
+        <file>qml/App/Snippets/MazeSolver/MazeSolver.qml.txt</file>
+        <file>qml/App/Snippets/MazeSolver/snippet.txt</file>
+        <file>qml/App/Snippets/PromiseBabel/desc.txt</file>
+        <file>qml/App/Snippets/PromiseBabel/PromiseBabel.qml.txt</file>
+        <file>qml/App/Snippets/PromiseBabel/snippet.txt</file>
+        <file>qml/App/Snippets/TenPrintHello/desc.txt</file>
+        <file>qml/App/Snippets/TenPrintHello/snippet.txt</file>
+        <file>qml/App/Snippets/TenPrintHello/TenPrintHello.qml.txt</file>
+        <file>qml/App/Snippets/WhileIter/desc.txt</file>
+        <file>qml/App/Snippets/WhileIter/snippet.txt</file>
+        <file>qml/App/Snippets/WhileIter/WhileIter.qml.txt</file>
+        <file>qml/App/SnippetSyntaxHighlighter.qml</file>
+        <file>qml/data/keywords.txt</file>
+        <file>qml/MyApp.qml</file>
+    </qresource>
+</RCC>

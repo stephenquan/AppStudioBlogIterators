@@ -1,1 +1,0 @@
-The following uses Promises to invoke the ArcGIS Online Search API iteratively to retrieve titles of over 200+ AppStudio samples:
